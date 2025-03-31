@@ -31,5 +31,3 @@ git
 ```
 
 See Table @tbl-summary for summary statistics of the dataset.
-
-iuagfaeyiufg
